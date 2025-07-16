@@ -1,3 +1,5 @@
+**Scor: 	
+21.0 / 60.0**
 Se va implementa o clasa Calculator care are are urmatoarea functionalitate:
 
 
